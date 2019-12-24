@@ -1,25 +1,10 @@
-# Music Tech Cookbook
+# [Music Tech Cookbook](../)
 
-By Cale McCollough
+## Getting Started
 
-## Content Table
+Music Tech Cookbook is an open-source book how to make MIDI controllers, synthesizers, and audio effects with Kabuki Tek Toolkit.
 
-1. [Getting Started](./getting_started/)
-   1. [Quickstart Guide](./getting_started/quickstart_guide)
-   1. [Command Line Usage](./getting_started/command_line_usage)
-   1. [Configuration and Build System](./getting_started/configuration_and_build_system)
-1. [Digital Audio](./digital_audio)
-   1. [Sampling](./digital_audio/sampling)
-      1. [Bit-depth](./digital_audio/sampling/bit-depth)
-         1. [Nyquist ]
-      1. [Frequency](./digital_audio/sampling/frequency)
-      1. [1-bit Audio](./digital_audio/sampling/1-bit_audio)
-   1. [Integer techniques](./digital_audio/integer_techniques)
-      1. [Fixed-point](./digital_audio/integer_techniques/fixed-point)
-   1. [Floating-point Techniques](./digital_audio/floating-point_techniques)
-      1. [Normalization](./digital_audio/floating-point_techniques/normalization)
-1. [Bibliography](./bibliography/)
-1. [Appendix](./appendix/)
+**[<< Previous Section:Content Table](../) | [Next Section: Quickstart Guide>>](./quickstart_guide)**
 
 ## License
 
