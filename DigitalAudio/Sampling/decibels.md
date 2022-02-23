@@ -1,8 +1,12 @@
-# [Music Tech Cookbook](../)
+# [Music Tech Cookbook](../../)
 
-## Bibliography
+## [Digital Audio](../)
 
-* [Source Name] – [Article Name]. (online - [URL] Accessed [date accessed])
+### [Sampling](./)
+
+#### Decibels
+
+**[<< Previous Section:Content Table](../) | [Next Section: Quickstart Guide>>](./quickstart_guide)**
 
 ## License
 

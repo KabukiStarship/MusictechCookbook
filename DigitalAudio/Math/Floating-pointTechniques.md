@@ -1,8 +1,14 @@
-# [Music Tech Cookbook](../)
+# [Music Tech Cookbook](../../)
 
-## Bibliography
+## [Digital Audio](../)
 
-* [Source Name] – [Article Name]. (online - [URL] Accessed [date accessed])
+### [Math](./)
+
+#### Floating-point techniques
+
+
+
+**[<< Previous Section: Up and Down-sampling](./up_and_down-sampling) | [Next Section: Floating-point techniques >>](./floating-point_techniques)**
 
 ## License
 

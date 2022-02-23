@@ -1,8 +1,13 @@
 # [Music Tech Cookbook](../)
 
-## Bibliography
+## [Digital Audio](./)
 
-* [Source Name] – [Article Name]. (online - [URL] Accessed [date accessed])
+### Math
+
+#### Up and Down-sampling
+
+
+**[<< Previous Section:Content Table](../) | [Next Section: Quickstart Guide>>](./quickstart_guide)**
 
 ## License
 

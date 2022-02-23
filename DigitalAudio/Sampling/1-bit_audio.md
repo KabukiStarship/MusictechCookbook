@@ -1,8 +1,27 @@
-# [Music Tech Cookbook](../)
+# [Music Tech Cookbook](../../)
 
-## Bibliography
+## [Digital Audio](../)
 
-* [Source Name] – [Article Name]. (online - [URL] Accessed [date accessed])
+### [Sampling](./)
+
+#### Bit-depth
+
+##### Decibels Per Bit
+
+```IMUL
+A_dB = 20*log(A_1/A_1)
+A_dB_per_bit = (20*log(2/1))/bit
+A_16bit_dB = 16 bits * A_dB_per_bit/bit = 96.33 dB
+```
+
+#### Sampling Frequency
+
+##### Nyquist-Shannon sampling theorem
+
+
+
+
+**[<< Previous Section:Content Table](../) | [Next Section: Quickstart Guide>>](./quickstart_guide)**
 
 ## License
 
